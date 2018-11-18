@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Service That Checks Other Apps Usage</string>
+    <string name="Start">start</string>
+</resources>
